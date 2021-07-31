@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorrangelcs&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrangelcs&layout=compact)](https://github.com/vitorrangelcs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrangelcs&langs_count=8)](https://github.com/vitorrangelcs/github-readme-stats)
+
