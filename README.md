@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorrangelcs&" alt="vitorrangelcs" /></p>
 
-[![Vitor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitorrangelcs)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@vitorrangelcs/0154454e-7be8-49c7-898f-75643d504e24.svg"></embed></figure>
