@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorrangelcs&" alt="vitorrangelcs" /></p>
 
-<figure><embed src="https://wakatime.com/share/@vitorrangelcs/0154454e-7be8-49c7-898f-75643d504e24.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@vitorrangelcs/a9812133-719c-42b3-9032-9664f3280292.svg"></embed>
