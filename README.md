@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor Rangel</h1>
 <h3 align="center">A passionate Backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **vitorrangelcs@gmail.com**
 
