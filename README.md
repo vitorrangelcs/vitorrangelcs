@@ -22,3 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorrangelcs&" alt="vitorrangelcs" /></p>
 
+
+<figure><embed src="https://wakatime.com/share/@vitorrangelcs/1ceb0c94-cda5-418b-9558-ab0631b28027.svg"></embed></figure>
